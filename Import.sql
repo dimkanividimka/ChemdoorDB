@@ -1,7 +1,9 @@
-/* To import csv-files via MySQL Workbench: 
-Go to Connection settings -> Advanced -> Others :
-
-OPT_LOCAL_INFILE=1*/
+-- To import csv-files via MySQL Workbench: 
+-- Go to Connection settings -> Advanced -> Others 
+-- Add a line "OPT_LOCAL_INFILE=1"
+-- or
+-- Run a command:
+-- SET GLOBAL local_infile = TRUE;
 
 USE chemdoor;
 
