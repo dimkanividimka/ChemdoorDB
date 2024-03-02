@@ -1,3 +1,3 @@
 # ChemdoorDB
 
-Contains T-SQL commands to set up database structure and import its data from enclosed CSV-files.
+This repository contains T-SQL commands for MySQL to set up database structure and import its data from enclosed CSV files.
