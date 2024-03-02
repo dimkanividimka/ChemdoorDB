@@ -1,0 +1,6 @@
+﻿CustomerScaleID,EmployeesNumber,Description
+1,up to 10,Tiny customer
+2,11-50,Small customer
+3,51-100,Medium customer
+4,101-500,Big customer
+5,500+,Large customer

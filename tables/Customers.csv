@@ -1,0 +1,137 @@
+CustomerTableEntryID,CustomerCode,CustomerName,ContactPerson,ContactPhone,Address,City,Effective,EffectiveDate,ExpirationDate,CustomerScaleType
+1,1,sanofi-aventis U.S. LLC,Kynthia Abbs,(551) 2484549,74 Marquette Way,Knightdale,1,2022-02-05,2999-01-01,3
+2,2,"IVAX Pharmaceuticals, Inc.",Claresta Filpi,(461) 7835069,87445 Westend Trail,Goldsboro,1,2022-02-10,2999-01-01,2
+3,3,PUR MINERALS,Evelin Forryan,(644) 6753635,0 Sherman Terrace,Stokesdale,1,2022-02-10,2999-01-01,3
+4,4,"Dispensing Solutions, Inc.",Dalenna Wapplington,(464) 7301670,81 Knutson Parkway,Belmont,1,2022-02-12,2999-01-01,3
+5,5,Topco Associates LLC,Aggie Branch,(332) 7744904,7 4th Street,Thomasville,1,2022-02-14,2999-01-01,3
+6,6,Apotheca Company,Aili Jansa,(814) 9432822,490 Barnett Park,Stallings,1,2022-02-16,2999-01-01,2
+7,7,TYA Pharmaceuticals,Aloin Peyro,(515) 9703187,89 Sundown Way,Boiling Spring Lakes,1,2022-02-27,2999-01-01,4
+8,8,"Epic Pharma, LLC",Cherianne Styan,(883) 9589880,86213 Pankratz Center,Henderson,1,2022-02-27,2999-01-01,3
+9,9,Belmont Middle School,Fanchette Whorall,(900) 4012207,6 Shopko Park,Belmont,1,2022-03-01,2999-01-01,4
+10,10,"Antigen Laboratories, Inc.",Jamie Limpertz,(865) 7985952,33 Westerfield Terrace,Thomasville,1,2022-03-08,2999-01-01,3
+11,11,Shanghai Weierya Daily Chemicals Factory,Shepherd Filkin,(860) 1019192,98268 Dwight Avenue,Gastonia,1,2022-03-09,2999-01-01,2
+12,12,"ZOONO USA, LLC",Hendrika O'Crevan,(428) 2657408,6 Shoshone Lane,Forest City,1,2022-03-14,2999-01-01,4
+13,13,Pfizer Laboratories Div Pfizer Inc.,Frankie Vanne,(137) 6246550,7312 Coolidge Lane,Lewisville,1,2022-03-16,2999-01-01,4
+14,14,"AvKARE, Inc.",Ellerey Oganian,(592) 9170165,58550 Caliangt Circle,Burlington,1,2022-03-19,2999-01-01,2
+15,15,"Ventura Corporation (San Juan, P.R)",Coralie Covert,(489) 1961810,527 David Avenue,Pinehurst,1,2022-03-28,2999-01-01,3
+16,16,"Genentech, Inc.",Darwin Gething,(316) 3684105,49687 Randy Hill,Eden,1,2022-03-31,2999-01-01,3
+17,17,Aurobindo Pharma Limited,Darwin Janikowski,(257) 5558000,5 Pearson Circle,Indian Trail,1,2022-04-08,2999-01-01,3
+18,18,Clinical Solutions Wholesale,Godwin Kenrack,(281) 1316539,3449 Kenwood Drive,Stokesdale,1,2022-04-17,2999-01-01,2
+19,19,Kroger Company,Claudina Wike,(120) 2252163,7580 Heffernan Road,Hickory,1,2022-04-22,2999-01-01,1
+20,20,Apotex Corporation,Reta Farrier,(830) 5359257,0037 Hanson Place,Havelock,1,2022-05-01,2999-01-01,1
+21,21,"Humphreys Pharmacal, Incorporated",Shanda Clemmensen,(914) 3176815,84 Briar Crest Lane,Morganton,1,2022-05-08,2999-01-01,4
+22,22,Feelgood Health,Kris Andreu,(800) 5980680,57 Ridgeway Lane,Cary,1,2022-05-09,2999-01-01,5
+23,23,Actavis Mid Atlantic LLC,Priscilla Drewet,(571) 5716542,285 Pearson Crossing,Havelock,1,2022-05-10,2999-01-01,3
+24,24,"Nelco Laboratories, Inc.",Geoffry Dowker,(199) 4973744,051 Dottie Point,Laurinburg,1,2022-05-25,2999-01-01,2
+25,25,Otsuka America Pharmaceutical Inc.,Timotheus Philcock,(532) 2702651,207 Fair Oaks Park,Lewisville,1,2022-05-25,2999-01-01,1
+26,26,"Preferred Pharmaceuticals, Inc.",Halsy Audibert,(424) 4217568,7218 Erie Lane,Havelock,1,2022-05-25,2999-01-01,3
+27,27,SHISEIDO AMERICA INC.,Aindrea Andover,(873) 3036792,553 Cascade Circle,Dunn,1,2022-05-28,2999-01-01,3
+28,28,NorthStar RxLLC,Jana Monier,(549) 5818187,53 Maywood Circle,Garner,0,2022-06-08,2023-04-11,3
+29,29,Clinical Solutions Wholesale,Pancho Worsnop,(584) 7338986,46174 Sachs Street,Shelby,1,2022-06-10,2999-01-01,1
+30,30,Hickory University,Erhard Condell,(848) 3958094,62 Dovetail Way,Hickory,1,2022-06-19,2999-01-01,3
+31,31,Clinical Solutions Wholesale,Dusty Camillo,(676) 1252546,96 Kensington Junction,Asheville,1,2022-07-02,2999-01-01,2
+32,32,Ulta,Jilleen Greensides,(345) 6756574,26553 Dexter Center,Marion,1,2022-07-07,2999-01-01,3
+33,33,Apotex Corp,Timothy Tillett,(763) 5226590,76 Buhler Crossing,Goldsboro,1,2022-07-12,2999-01-01,3
+34,34,Torrent Pharmaceuticals Limited,Annora Corriea,(326) 7198217,92 Del Sol Parkway,Greensboro,1,2022-07-23,2999-01-01,1
+35,35,"Lights Medical Manufacture Co., Ltd.",Alberik Climo,(639) 4117500,94 Red Cloud Park,Hickory,1,2022-07-24,2999-01-01,2
+36,36,Mylan Institutional LLC,Drona Witherow,(952) 3522800,2840 Russell Trail,Rocky Mount,1,2022-08-01,2999-01-01,3
+37,37,TOP CARE (Topco Associates LLC),Allis M'Quharge,(309) 5924510,88 Eagan Junction,Dunn,1,2022-08-02,2999-01-01,2
+38,38,"Shopko Stores Operating Co., LLC",Dame Haskell,(609) 8431903,1 Lawn Point,Clayton,1,2022-08-06,2999-01-01,2
+39,39,Lancaster S.A.M.,Victoir Artist,(664) 6717604,4503 John Wall Way,Washington,1,2022-08-18,2999-01-01,3
+40,40,McKesson,Charmain Carruthers,(410) 7150722,98318 Havey Alley,Wadesboro,1,2022-08-30,2999-01-01,2
+41,41,Aspirus Keweenaw Home Medical Equipment,Glenine Hissett,(852) 7612195,9 Pepper Wood Trail,Concord,1,2022-09-01,2999-01-01,3
+42,42,"Nelco Laboratories, Inc.",Umberto Tamburo,(391) 9710944,02 Hanson Street,Pinehurst,1,2022-09-07,2999-01-01,3
+43,43,"Jets, Sets, & Elephants Beauty Corp.",Tabor Wasteney,(680) 6261198,87470 Arkansas Way,Boiling Spring Lakes,1,2022-09-13,2999-01-01,2
+44,44,Wal-Mart Stores Inc,Jeana Keizman,(310) 3658253,75 Miller Court,Trinity,1,2022-09-16,2999-01-01,4
+45,45,Virtus Pharmaceuticals LLC,Kissee Sanz,(109) 3521850,09354 Novick Street,Lewisville,1,2022-09-18,2999-01-01,5
+46,46,Wockhardt USA LLC.,Cindelyn MacMearty,(504) 5717837,3 Barnett Street,Havelock,1,2022-09-22,2999-01-01,3
+47,47,Actavis Inc.,Lorin McPike,(724) 1023141,9 Dapin Alley,Lexington,1,2022-09-23,2999-01-01,3
+48,48,"PD-Rx Pharmaceuticals, Inc.",Dexter Cinelli,(843) 7464760,941 Bowman Court,Kill Devil Hills,1,2022-09-23,2999-01-01,4
+49,49,"GAVIS Pharmaceuticals, LLC",Nelia Minshall,(737) 2744196,438 Northport Lane,Sawmills,1,2022-09-24,2999-01-01,2
+50,50,Mylan Institutional Inc.,Christi Reinhardt,(144) 4387396,2691 Amoth Crossing,Albemarle,1,2022-09-25,2999-01-01,2
+51,51,ENCHANTE ACCESSORIES INC.,Maurizia Spellsworth,(868) 4832910,11 Sunbrook Street,Chapel Hill,1,2022-10-15,2999-01-01,2
+52,52,Conopco Inc. d/b/a Unilever,Shelton Bougen,(805) 1769462,4541 Norway Maple Drive,Leland,1,2022-10-20,2999-01-01,3
+53,53,"ALK-Abello, Inc.",Fedora Peatt,(821) 1533913,3 Fairfield Center,Asheville,1,2022-10-24,2999-01-01,4
+54,54,Pfizer Laboratories Div Pfizer Inc.,Karyl Iiannoni,(991) 8547072,63 6th Alley,Mooresville,1,2022-10-25,2999-01-01,5
+55,55,"Janssen Pharmaceuticals, Inc.",Harris Crotch,(543) 2690932,6 Old Gate Road,Kill Devil Hills,1,2022-11-01,2999-01-01,1
+56,56,Leland Elementary School,Yetty Chivers,(131) 5756281,0 Crowley Court,Leland,1,2022-11-11,2999-01-01,2
+57,57,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Adina MacCoughan,(125) 5578477,89 Westend Alley,Hope Mills,1,2022-11-15,2999-01-01,2
+58,58,"GOJO Industries, Inc.",Rhianon Iannuzzi,(557) 5195390,2690 Shoshone Circle,Charlotte,0,2022-11-20,2023-10-05,2
+59,59,Comfort Medical,Elnora Cristofaro,(745) 7217384,5 Rigney Street,Stallings,1,2022-11-23,2999-01-01,3
+60,60,"MSD Consumer Care, Inc.",Gifford Wadley,(322) 1015136,9 Anniversary Road,Lexington,1,2022-11-24,2999-01-01,4
+61,61,Kroger,Babbie Marriot,(770) 2514258,65 Arizona Avenue,Trinity,1,2022-11-25,2999-01-01,3
+62,62,REMEDYREPACK INC.,Hermia Parmiter,(860) 2442177,01 Melby Point,Garner,1,2022-11-28,2999-01-01,5
+63,63,Uriel Pharmacy Inc.,Myca Place,(672) 8625952,27076 Hermina Lane,Mount Airy,1,2022-12-05,2999-01-01,1
+64,64,"PD-Rx Pharmaceuticals, Inc.",Harrietta Fike,(683) 5915726,73027 Annamark Street,Rockingham,1,2022-12-09,2999-01-01,2
+65,65,Siler City College,Renee Southey,(445) 7218065,128 Swallow Park,Siler City,1,2022-12-25,2999-01-01,2
+66,66,Ventura Corporation LTD,Rosana Roony,(646) 2407121,337 Surrey Place,Hope Mills,1,2022-12-25,2999-01-01,1
+67,67,"Physicians Total Care, Inc.",Thornie Argo,(336) 5170280,5 Thompson Trail,Wadesboro,1,2022-12-25,2999-01-01,1
+68,68,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Buck Sivorn,(501) 5830415,9 Loftsgordon Alley,Ayden,1,2022-12-25,2999-01-01,3
+69,69,"Eon Labs, Inc.",Evyn Borham,(580) 1484977,2042 Jackson Lane,Havelock,1,2022-12-27,2999-01-01,1
+70,70,"Arbor Pharmaceuticals, Inc.",Nikolia Chatto,(379) 3876790,658 2nd Junction,Forest City,1,2023-01-02,2999-01-01,2
+71,71,Tri-Coastal Design Company Inc.,Valentijn Loveredge,(557) 6067844,00 Amoth Lane,Lenoir,1,2023-01-05,2999-01-01,3
+72,72,Lundbeck Inc.,Dacey Romanin,(702) 8302303,08744 Glacier Hill Alley,Belmont,1,2023-01-06,2999-01-01,1
+73,73,"Native Remedies, LLC",Ogden Draisey,(921) 5742603,730 Welch Alley,Kernersville,1,2023-01-13,2999-01-01,4
+74,74,"NCS HealthCare of KY, Inc dba Vangard Labs",Karim Skewes,(229) 8906152,7244 Stone Corner Park,Washington,1,2023-01-27,2999-01-01,2
+75,75,L'Oreal USA Products Inc,Wenda Argile,(622) 6547428,6 Meadow Ridge Plaza,Goldsboro,1,2023-02-04,2999-01-01,3
+76,76,"SJ Creations, Inc.",Paul Compston,(985) 3879991,20 Texas Place,Durham,1,2023-02-10,2999-01-01,1
+77,77,"SEYER PHARMATEC, INC.",Giuseppe Kornilov,(626) 3531411,62163 Mallard Center,Summerfield,1,2023-02-22,2999-01-01,3
+78,78,Sandoz Inc,Zedekiah Eaklee,(733) 8084407,152 Lerdahl Parkway,Granite Falls,1,2023-02-22,2999-01-01,2
+79,79,"PD-Rx Pharmaceuticals, Inc.",Marybelle Taaffe,(826) 6702704,12 Sugar Circle,Mooresville,1,2023-03-05,2999-01-01,1
+80,80,Wakefern Food Corporation,Stafford Thiolier,(494) 1230200,4017 Sutherland Pass,Hillsborough,1,2023-03-09,2999-01-01,4
+81,81,Efficient Laboratories Inc.,Janis Astley,(227) 9933079,37 Macpherson Way,Cornelius,1,2023-03-16,2999-01-01,3
+82,82,"Native Remedies, LLC",Abdul Stobie,(288) 6377476,8667 Valley Edge Lane,Boone,1,2023-03-20,2999-01-01,1
+83,83,Apotheca Company,Royall Kingsmill,(105) 3267562,33 Golden Leaf Point,Pinehurst,1,2023-03-28,2999-01-01,3
+84,84,Rite Aid,Michale Blood,(832) 2101296,8 Kim Court,Jacksonville,1,2023-04-03,2999-01-01,4
+85,85,"Aphena Pharma Solutions - Tennessee, LLC",Stacy Monteith,(251) 7193793,4224 Mesta Terrace,King,1,2023-04-10,2999-01-01,2
+86,86,"Unipack, Inc.",Dion Stolz,(618) 2550269,935 Crescent Oaks Trail,Mount Airy,1,2023-04-11,2999-01-01,3
+87,28,NorthStar RxLLC,Jana Monier,(549) 5818187,53 Maywood Circle,Garner,1,2023-04-11,2999-01-01,4
+88,87,Burlington Middle School,Cassius Willox,(762) 3563314,7151 Blue Bill Park Terrace,Burlington,1,2023-04-12,2999-01-01,1
+89,88,Glytone,Claudette Dummett,(318) 5388520,0 Hollow Ridge Center,Lenoir,1,2023-04-14,2999-01-01,4
+90,89,Sandoz Inc,Vanni Raiment,(510) 6444169,98577 Buena Vista Hill,Trinity,1,2023-04-14,2999-01-01,1
+91,90,Sandoz Inc,Gabriello Burfitt,(783) 9023294,8 Thackeray Center,Southern Pines,1,2023-04-24,2999-01-01,3
+92,91,"21st Century Homeopathics, Inc",Angeli Carslaw,(336) 8076003,6659 Sutherland Trail,Mint Hill,1,2023-04-29,2999-01-01,2
+93,92,"Chattem, Inc.",Gisela McGiven,(321) 2862663,7508 Lakeland Plaza,Clayton,1,2023-05-05,2999-01-01,3
+94,93,Kannapolis Elementary School,Coretta Kittoe,(173) 6587281,22514 Goodland Avenue,Kannapolis,1,2023-05-07,2999-01-01,1
+95,94,Oak Island Elementary School,Justine Bodycombe,(411) 6897013,41398 Red Cloud Way,Oak Island,1,2023-05-07,2999-01-01,2
+96,95,Gen-Source Rx,Meredithe Baradel,(870) 2007337,583 Kim Center,Greenville,1,2023-05-16,2999-01-01,3
+97,96,"SJ Creations, Inc.",Masha Riby,(396) 7508288,8 8th Parkway,Angier,1,2023-05-20,2999-01-01,4
+98,97,"Meijer Distribution, Inc",Jonathon Ricketts,(824) 3590615,16 Manley Center,Kill Devil Hills,0,2023-05-22,2023-08-23,3
+99,98,Ventura International LTD,Elli Sommerlie,(119) 2252668,489 Straubel Center,Smithfield,1,2023-06-02,2999-01-01,4
+100,99,King Bio Inc.,Hermie Phillpot,(783) 9280157,16 Maywood Plaza,Marion,1,2023-06-02,2999-01-01,3
+101,100,Jubilant HollisterStier LLC,Esmaria Pittson,(210) 5540792,327 Lunder Park,Eden,1,2023-06-06,2999-01-01,2
+102,101,Cardinal Health,Joice Stango,(192) 9219841,93 Oakridge Park,Burlington,1,2023-06-12,2999-01-01,3
+103,102,"Hawthorn Pharmaceuticals, Inc.",Inge Gilardone,(498) 1877531,545 Sutherland Hill,Clayton,1,2023-07-02,2999-01-01,3
+104,103,Seatex Ltd,Jerad McHardy,(662) 3557173,4613 Scoville Hill,Stallings,1,2023-07-12,2999-01-01,3
+105,104,ConvaTec Inc.,Ernst Nornable,(196) 9455974,42 Garrison Way,Wrightsville Beach,1,2023-07-16,2999-01-01,3
+106,105,Portal Pharmaceutical,Gran Illingsworth,(271) 7459171,4 American Point,Knightdale,1,2023-07-22,2999-01-01,1
+107,106,Mylan Pharmaceuticals Inc.,Charlotta Duggan,(553) 5358352,0897 Village Green Center,Lenoir,1,2023-08-02,2999-01-01,1
+108,107,NASH-FINCH COMPANY,Elie Baldam,(281) 2044669,657 Maryland Street,Mount Airy,1,2023-08-04,2999-01-01,4
+109,108,United Therapeutics Corp.,Osbert Bowling,(499) 2790318,1 Chinook Plaza,Mount Holly,1,2023-08-05,2999-01-01,1
+110,109,"Chain Drug Consortium, LLC",Phylys Massy,(926) 2968002,36299 Anniversary Street,Marion,1,2023-08-17,2999-01-01,3
+111,110,State of Florida DOH Central Pharmacy,Bunny Silmon,(691) 8234794,8 Washington Park,Oak Island,1,2023-08-22,2999-01-01,3
+112,97,"Meijer Distribution, Inc",Jonathon Ricketts,(824) 3590615,16 Manley Center,Kill Devil Hills,1,2023-08-23,2999-01-01,4
+113,111,Sagent Pharmaceuticals,Bud Scogings,(332) 3306447,918 Loeprich Terrace,Matthews,1,2023-08-25,2999-01-01,2
+114,112,REMEDYREPACK INC.,Dacy Laurenz,(555) 4433845,1347 Bobwhite Drive,Tarboro,1,2023-08-29,2999-01-01,3
+115,113,Thomaswille Hight School,Eamon Mulford,(969) 1339390,55161 Upham Place,Thomasville,1,2023-09-02,2999-01-01,3
+116,114,Wockhardt Limited,Dal Wharby,(126) 6648003,499 Vahlen Point,Wilmington,1,2023-09-05,2999-01-01,3
+117,115,Dr Reddys Laboratories Inc,Carolee Bolton,(363) 6223753,724 Brentwood Center,Waynesville,1,2023-09-09,2999-01-01,1
+118,116,Supervalu Inc,Germaine Playfoot,(305) 3456444,87763 Victoria Trail,Thomasville,1,2023-09-14,2999-01-01,3
+119,117,Knightdale Hight School,Harwilll Dundridge,(115) 3609991,70 Oak Plaza,Knightdale,1,2023-09-16,2999-01-01,2
+120,118,Dispensing Solutions Inc.,Maurice Paramore,(831) 8587310,1958 Hoffman Street,Winston-Salem,1,2023-09-22,2999-01-01,2
+121,119,"Physicians Total Care, Inc.",Courtnay Danzey,(428) 2047975,9124 Lien Center,Thomasville,1,2023-09-26,2999-01-01,1
+122,120,Major Pharmaceuticals,Aleece Burchett,(857) 2069729,87 Quincy Lane,Mount Airy,1,2023-10-01,2999-01-01,1
+123,121,Pfizer Laboratories Div Pfizer Inc,Hermine Myrick,(708) 3375871,03734 Burrows Crossing,Matthews,1,2023-10-01,2999-01-01,3
+124,58,"GOJO Industries, Inc.",Rhianon Iannuzzi,(557) 5195390,2690 Shoshone Circle,Charlotte,1,2023-10-05,2999-01-01,3
+125,122,St Marys Medical Park Pharmacy,Blake Bulley,(820) 1301733,5285 Buell Hill,Kernersville,1,2023-10-15,2999-01-01,5
+126,123,QUALITY CHOICE (Chain Drug Marketing Association),Orelle Sherwyn,(195) 5294214,399 Cottonwood Crossing,Hickory,1,2023-11-03,2999-01-01,5
+127,124,BluePoint Laboratories,Richy Martins,(932) 1704154,447 Cambridge Trail,Roanoke Rapids,1,2023-11-08,2999-01-01,3
+128,125,B. Braun Medical Inc.,Augustine Hylands,(289) 7576926,11746 Iowa Road,Lewisville,1,2023-11-16,2999-01-01,4
+129,126,American Health Packaging,Dew Debenham,(256) 7592244,0114 Continental Hill,Rocky Mount,1,2023-11-21,2999-01-01,2
+130,127,RITE AID CORPORATION,Heidie Ghidini,(653) 5593527,085 Grasskamp Alley,Southern Pines,1,2023-11-22,2999-01-01,3
+131,128,"Physicians Total Care, Inc.",Esteban De la Harpe,(486) 1913664,0543 Redwing Court,Wake Forest,1,2023-11-25,2999-01-01,3
+132,129,"L.N.K. International, Inc.",Mirabelle Tomaskunas,(814) 4544768,72435 Towne Court,Angier,1,2023-12-03,2999-01-01,4
+133,130,Sellars Absorbent Materials,Cheri Ludwikiewicz,(274) 1096254,75 Bartillon Plaza,Thomasville,1,2023-12-09,2999-01-01,3
+134,131,TOPCO ASSOCIATES LLC,Kala Charville,(159) 4996459,143 Hanover Crossing,Laurinburg,1,2023-12-14,2999-01-01,5
+135,132,"Life Line Home Care Services, Inc.",Gabriel Redmain,(356) 6173302,44 Magdeline Way,Oak Island,1,2023-12-15,2999-01-01,3
+136,133,"Centocor Ortho Biotech Products, L.P.",Deva Alliston,(933) 2024800,0 Columbus Point,Kernersville,1,2023-12-20,2999-01-01,2

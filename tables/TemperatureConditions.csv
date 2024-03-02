@@ -1,0 +1,4 @@
+﻿TemperatureConditionsID,IDDescription,ShortIDDescription
+1,Can be stored or transported at ambient temperature/ Shipper has capacities to transport items only at ambient temperature,AT
+2,Must be stored or transported at +4 °C / Shipper has capacities to transport items at +4 °C,+4 °C
+3,Must be stored or transported at -20 °C / Shipper has capacities to transport items at -20 °C,-20 °C
