@@ -3,6 +3,7 @@
 This repository contains T-SQL commands for MySQL to set up database structure and import its data from enclosed CSV files.
 
 Some details and features:
+
     - Scheme contains 10 tables in total.
     - TemperaturesConditions table is a conformed dimension table, used by Shippers and Products tables.
     - Customers table implemented as a slowly changing dimension table (Type 2).
