@@ -24,7 +24,6 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Employees` (
 -- -----------------------------------------------------
 -- Table `chemdoor`.`CustomerScale`
 -- -----------------------------------------------------
-
 CREATE TABLE IF NOT EXISTS `chemdoor`.`CustomerScale` (
   `CustomerScaleType` TINYINT(1) AUTO_INCREMENT,
   `EmployeesNumber` VARCHAR(45) ,
@@ -46,6 +45,7 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Customers` (
   `EffectiveDate` DATE ,
   `ExpirationDate` DATE ,
   `CustomerScaleID` TINYINT(1) ,
+  INDEX (City),
   PRIMARY KEY (`CustomerTableEntryID`),
 	FOREIGN KEY (`CustomerScaleID`) REFERENCES `chemdoor`.`CustomerScale` (`CustomerScaleType`));
 
@@ -104,8 +104,8 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Suppliers` (
   `ContactPhone` VARCHAR(15) ,
   `Address` VARCHAR(100) ,
   `City` VARCHAR(45) ,
+  INDEX (City),
   PRIMARY KEY (`SupplierID`));
-
 
 -- -----------------------------------------------------
 -- Table `chemdoor`.`Products`
