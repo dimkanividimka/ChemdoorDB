@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Employees` (
 -- Table `chemdoor`.`CustomerScale`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `chemdoor`.`CustomerScale` (
-  `CustomerScaleType` TINYINT(1) AUTO_INCREMENT,
+  `CustomerScaleType` INT AUTO_INCREMENT,
   `EmployeesNumber` VARCHAR(45) ,
   `Description` VARCHAR(150) ,
   PRIMARY KEY (`CustomerScaleType`));
@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Customers` (
   `Effective` TINYINT NOT NULL DEFAULT 1,
   `EffectiveDate` DATE ,
   `ExpirationDate` DATE ,
-  `CustomerScaleID` TINYINT(1) ,
+  `CustomerScaleID` INT ,
   INDEX (City),
   PRIMARY KEY (`CustomerTableEntryID`),
 	FOREIGN KEY (`CustomerScaleID`) REFERENCES `chemdoor`.`CustomerScale` (`CustomerScaleType`));
@@ -66,8 +66,9 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Orders` (
 -- Table `chemdoor`.`TemperatureConditions`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `chemdoor`.`TemperatureConditions` (
-  `TemperatureConditionsID` TINYINT(1) AUTO_INCREMENT,
+  `TemperatureConditionsID` INT AUTO_INCREMENT,
   `IDDescription` VARCHAR(250) NULL,
+  `ShortIDDescription` VARCHAR(45) NULL,
   PRIMARY KEY (`TemperatureConditionsID`));
 
 -- -----------------------------------------------------
@@ -80,7 +81,7 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Shippers` (
   `ContactPhone` VARCHAR(15) ,
   `Address` VARCHAR(100) ,
   `City` VARCHAR(45) ,
-  `TemperatureConditionsID` TINYINT(1),
+  `TemperatureConditionsID` INT ,
   PRIMARY KEY (`ShipperID`),
     FOREIGN KEY (`TemperatureConditionsID`) REFERENCES `chemdoor`.`TemperatureConditions` (`TemperatureConditionsID`)
  );
@@ -119,7 +120,7 @@ CREATE TABLE IF NOT EXISTS `chemdoor`.`Products` (
   `SupplierPrice` DECIMAL(6,2) ,
   `SellingPrice` DECIMAL(6,2) ,
   `UnitType` VARCHAR(100) ,
-  `TemperatureConditionsID` TINYINT(1) ,
+  `TemperatureConditionsID` INT ,
   PRIMARY KEY (`ProductID`, `SupplierID`),
     FOREIGN KEY (`CategoryID`) REFERENCES `chemdoor`.`Categories` (`CategoryID`),
     FOREIGN KEY (`SupplierID`) REFERENCES `chemdoor`.`Suppliers` (`SupplierID`),
