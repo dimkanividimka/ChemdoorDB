@@ -9,4 +9,4 @@ Some details and features:
  - Customers table implemented as a slowly changing dimension table (Type 2).
  - Aside from standard MySQL indexes, it has B-Tree indexed City column in tables Customers and Suppliers.
     
-![Schema](https://github.com/dimkanividimka/ChemdoorDB/assets/124629748/7f2a67e1-cebd-447e-8f92-c732492f4594)
+![Schema](https://github.com/dimkanividimka/ChemdoorDB/blob/main/Schema.PNG)
